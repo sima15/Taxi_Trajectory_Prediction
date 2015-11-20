@@ -45,8 +45,8 @@ Five test sets have been chosen randomly to evaluate our framework. The datasets
 
 The five snapshots of the trajectories that have been included on the test set are based on the following timestamps:
 
-14/08/2014 18:00:00
-30/09/2014 08:30:00
-06/10/2014 17:45:00
-01/11/2014 04:00:00
-21/12/2014 14:30:00
+1. 14/08/2014 18:00:00
+2. 30/09/2014 08:30:00
+3. 06/10/2014 17:45:00
+4. 01/11/2014 04:00:00
+5. 21/12/2014 14:30:00
