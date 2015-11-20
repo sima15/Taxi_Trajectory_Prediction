@@ -4,8 +4,8 @@ library(ggmap)
 library(readr)
 library(rjson)
 
-test <- read_csv("../input/test.csv.zip")
-map  <- readRDS("../input/99percentile_bw_map_copyright_openstreetmap_contributors.rds")
+test <- read_csv("test.csv")
+map  <- readRDS("testmap.rds")
 
 positions <- function(row) 
                 as.data.frame(do.call(rbind, fromJSON(row$POLYLINE)))
